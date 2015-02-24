@@ -7,4 +7,7 @@ Basta ir em chrome://extensions/ > Marcar "Devel Mode" > e carregar extensao nao
 
 Se o projeto vingar, eh facil packear a extensao e sharear :)
 
+Interessados em entrar/contribuir com o projeto basta procurar na Lista do Area31 Hackerspace ;)
+
+
 Vejo vcs no lado escuro da lua
